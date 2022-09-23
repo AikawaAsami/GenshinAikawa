@@ -2,7 +2,7 @@
 A Tool To Make CheatEngine Work On Genshin Impact ( PC )
 
 # Preview Script
-![GenshinAikawaV3](h)
+![GenshinAikawaV3](https://github.com/AikawaAsami/GenshinAikawa/blob/main/Aikawa.jpg)
 
 **How To Execute?**
  - Install Lua From ``http://luabinaries.org``
