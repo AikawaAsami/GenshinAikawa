@@ -1,6 +1,9 @@
 # GenshinAikawa
 A Tool To Make CheatEngine Work On Genshin Impact ( PC )
 
+# Note
+- **This Doesn't Work Now, You'll Need Process Explorer For Bypass To Use CheatEngine, Maybe I'll Make It Later.**
+
 # Preview Script
 ![GenshinAikawaV3](https://github.com/AikawaAsami/GenshinAikawa/blob/main/Aikawa.jpg)
 
